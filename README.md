@@ -1,4 +1,4 @@
-# OpenWrt firmware for Newifi D2
+# OpenWrt firmware for HiWiFi B70
 
 Auto build OpenWrt firmware for HiWiFi B70 via GitHub Actions
 
