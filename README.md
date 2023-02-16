@@ -1,5 +1,5 @@
 # OpenWrt firmware for Newifi D2
 
-Auto build OpenWrt firmware for Newifi D2 via GitHub Actions
+Auto build OpenWrt firmware for HiWiFi B70 via GitHub Actions
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/P3TERX/OpenWrt-Newifi_D2?style=for-the-badge&label=Download)](https://github.com/P3TERX/OpenWrt-Newifi_D2/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/molun/OpenWrt-HiWiFi_HC5962?style=for-the-badge&label=Download)](https://github.com/molun/OpenWrt-HiWiFi_HC5962/releases/latest)
